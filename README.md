@@ -1,5 +1,5 @@
 
-[![](https://raw.githubusercontent.com/miles-mcgibbon/miles-mcgibbon/main/.github/images/linkedin.svg)](https://www.linkedin.com/in/miles-mcgibbon/)
+[![](https://raw.githubusercontent.com/miles-mcgibbon/miles-mcgibbon/main/.github/images/linkedin.png)](https://www.linkedin.com/in/miles-mcgibbon/)
 
 # About Me
 
