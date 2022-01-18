@@ -1,6 +1,5 @@
-<a href="www.linkedin.com/in/miles-mcgibbon">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+
+[![](https://raw.githubusercontent.com/miles-mcgibbon/miles-mcgibbon/main/.github/images/linkedin.svg)](https://www.linkedin.com/in/miles-mcgibbon/)
 
 # About Me
 
@@ -8,4 +7,27 @@ I am a self-taught programmer and MSc Bioinformatics student at The University o
 
 ![](https://raw.githubusercontent.com/miles-mcgibbon/miles-mcgibbon/main/.github/images/pose_labels.gif)
 
-# Languages and Tools
+# Languages
+
+- Python
+- R
+- Bash
+- Julia (currently learning!)
+
+# Tools
+
+- Conda
+- virtualenv
+- Tensorflow
+- Keras
+- XGBoost
+- RDKit
+- Openbabel
+- AutoDock
+- ggplot2
+- dplyr
+- Rshiny
+- Matplotlib
+- Altair
+- Pandas
+- Numpy and Scipy
