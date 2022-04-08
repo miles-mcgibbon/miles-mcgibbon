@@ -12,13 +12,15 @@ I am a self-taught programmer and MSc Bioinformatics student at The University o
 - Python
 - R
 - Bash
-- Julia (currently learning!)
+- PHP
+- Julia & GoLang (currently learning!)
 
-# Tools
+# Favourite Tools
 
 - Conda
 - virtualenv
 - Tensorflow
+- PyTorch Lightning
 - Keras
 - XGBoost
 - RDKit
@@ -29,5 +31,4 @@ I am a self-taught programmer and MSc Bioinformatics student at The University o
 - Rshiny
 - Matplotlib
 - Altair
-- Pandas
-- Numpy and Scipy
+- Pandas, numpy and Scipy
