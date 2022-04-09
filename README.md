@@ -13,6 +13,7 @@ I am a self-taught programmer and MSc Bioinformatics student at The University o
 - R
 - Bash
 - PHP
+- SQL
 - Julia & GoLang (currently learning!)
 
 # Favourite Tools
