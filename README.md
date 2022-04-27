@@ -3,7 +3,7 @@
 
 # About Me
 
-I am a self-taught programmer and MSc Bioinformatics student at The University of Edinburgh. I am currently working on several *in silico* drug discovery projects alongside my masters involving the use of machine learning to characterise protein-ligand binding interactions. Find my CV [here](https://github.com/miles-mcgibbon/miles-mcgibbon/blob/main/Miles_McGibbon_CV.pdf).
+I am a self-taught programmer and MSc Bioinformatics student at The University of Edinburgh. I am currently working on several *in silico* drug discovery projects alongside my masters involving the use of machine learning to characterise protein-ligand binding interactions.
 
 ![](https://raw.githubusercontent.com/miles-mcgibbon/miles-mcgibbon/main/.github/images/pose_labels.gif)
 
