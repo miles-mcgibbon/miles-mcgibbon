@@ -3,7 +3,7 @@
 
 # About Me
 
-I am a self-taught programmer and MSc Bioinformatics student at The University of Edinburgh. I am currently working on several *in silico* drug discovery projects alongside my masters involving the use of machine learning to characterise protein-ligand binding interactions.
+I am a self-taught programmer and MSc Bioinformatics student at The University of Edinburgh. I am currently working on several *in silico* drug discovery projects alongside my masters involving the use of machine learning to characterise protein-ligand binding interactions at the SMVDGroup - [smvdgroup.github.io](https://smvdgroup.github.io) - a research group of which I am a co-founder.
 
 ![](https://raw.githubusercontent.com/miles-mcgibbon/miles-mcgibbon/main/.github/images/pose_labels.gif)
 
@@ -14,14 +14,14 @@ I am a self-taught programmer and MSc Bioinformatics student at The University o
 - Bash
 - PHP
 - SQL
-- Julia & GoLang (currently learning!)
+- GoLang (very basic - currently learning!)
 
 # Favourite Tools
 
 - Conda
 - virtualenv
 - Tensorflow
-- PyTorch Lightning
+- PyTorch Lightning (Learning)
 - Keras
 - XGBoost
 - RDKit
